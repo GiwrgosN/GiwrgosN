@@ -6,7 +6,7 @@ Portfolio of data science and programming projects completed for academic, self 
 
 - ## [Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data](https://github.com/GiwrgosN/Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data)
 
-In the context of this thesis 3 clustering algorithms are examined as well as their effectiveness with the use of medical data (patients with breast cancer). Purpose of applying these algorithms is the choice of the one with the best results as well as the answer to the question of whether they can be used to predict breast cancer.
+In the context of my thesis for National Technical University of Athens, 3 clustering algorithms are examined as well as their effectiveness with the use of medical data (patients with breast cancer). Purpose of applying these algorithms is the choice of the one with the best results as well as the answer to the question of whether they can be used to predict breast cancer.
 
 Initially reference is made to the 3 different algorithms (K - means, Single Link, DBSCAN) and to basic concepts such as how they function, correctness, various parameterization techniques as well as time and space complexity. In addition, the advantages and disadvantages of each one over the others are mentioned. In order to compare the above methods, reference is made to evaluation indicators implemented using the R package software.
 
