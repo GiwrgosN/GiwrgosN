@@ -6,7 +6,7 @@ Hello! My name is Georgios Nikolaidis and I am an experienced credit risk analys
 
 ## Contents
 
-- ### [Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data](https://github.com/GiwrgosN/Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data)
+       - ### [Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data](https://github.com/GiwrgosN/Comparative-Study-of-Clustering-Algorithms-with-Application-to-Medical-Data)
 
 In the context of my thesis for National Technical University of Athens, 3 clustering algorithms are examined as well as their effectiveness with the use of medical data (patients with breast cancer). Purpose of applying these algorithms is the choice of the one with the best results as well as the answer to the question of whether they can be used to predict breast cancer.
 
