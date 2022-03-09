@@ -20,3 +20,6 @@ Developed a website for a car rental company. The user could make revervations, 
 
 Four russians algorithm is a matrix multiplication algorithm. The main purpose of this project was to implement this algorithm in Python.
 
+- ## [Computational-Statistics](https://github.com/GiwrgosN/Computational-Statistics)
+
+Implementation of E-M algorithm, bootstrap for linear regression, Lasso, kernel density estimation, rejection method and cross validation in R.
