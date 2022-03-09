@@ -1,6 +1,6 @@
 # Portfolio
 
-Portfolio of data science and programming projects completed for academic, self learning, and hobby purposes. 
+Hello! My name is Georgios Nikolaidis and I am an experienced credit risk analyst with a demonstrated history of working in the financial services industry. Skilled in R, SAS, SQL, Microsoft Office, Statistical Data Analysis and Machine Learning. Strong finance professional with an integrated master's degree focused in Applied Mathematics from National Technical University of Athens. Bellow you can find my portfolio of data science and programming projects completed for academic, self learning, and hobby purposes. 
 
 # Contents
 
