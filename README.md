@@ -15,7 +15,7 @@ In the context of my thesis for National Technical University of Athens, 3 clust
 *Tools*  : R  
 *Dataset*: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra
 
-- ### [Car rental database](https://github.com/GiwrgosN/CarRental)
+- ### [Car Rental Database](https://github.com/GiwrgosN/CarRental)
 
 Developed a website for a car rental company. The user could make revervations, delete a reservation or update an existing one. The car rental company could have many stores which the user would be able to choose from. The user interface was made using html,CSS and Javascript and all the data were stored in a database using MySQL.
 
@@ -27,7 +27,7 @@ Four russians algorithm is a matrix multiplication algorithm. The main purpose o
 
 *Tools*: Python 
 
-- ### [Computational-Statistics](https://github.com/GiwrgosN/Computational-Statistics)
+- ### [Computational Statistics](https://github.com/GiwrgosN/Computational-Statistics)
 
 Implementation of E-M algorithm, bootstrap for linear regression, Lasso, kernel density estimation, rejection method and cross validation.
 
