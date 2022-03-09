@@ -16,7 +16,8 @@ Initially reference is made to the 3 different algorithms (K - means, Single Lin
 
 Finally a graphical presentation of the data and application of the algorithms is followed with the help of R package software.It should be noted that the process of improving the performance of the algorithms is achieved both with the help of the aforementioned techniques as well as with the testing and continuous execution of the respective software, since the aim of this thesis was to compare the results under optimal parameterization conditions.
 
-*Tools*: R
+*Tools*  : R
+*Dataset*: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra
 
 - ### [Car rental database](https://github.com/GiwrgosN/CarRental)
 
