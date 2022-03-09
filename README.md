@@ -1,6 +1,7 @@
 # Summary
 
-Hello! My name is Georgios Nikolaidis and I am an experienced credit risk analyst with a demonstrated history of working in the financial services industry. Skilled in R, Python, SAS, SQL, Microsoft Office, Statistical Data Analysis and Machine Learning. Regarding my education I will be joining King's College London for a MSc in Data Science (September 2022) which alongside with my integrated master's degree focused in Applied Mathematics from National Technical University of Athens will provide me with all the necessary skills to enter the world of data science. Bellow you can find my portfolio of data science and programming projects completed for academic, self learning, and hobby purposes. For details about projects which I have completed on a production - work related environment you can reach me on: giwrgos.nikolaidis@icloud.com
+Hello! My name is Georgios Nikolaidis and I am an experienced credit risk analyst with a demonstrated history of working in the financial services industry. Skilled in R, Python, SAS, SQL, Microsoft Office, Statistical Data Analysis and Machine Learning. Regarding my education I will be joining King's College London for a MSc in Data Science (September 2022) which alongside with my integrated master's degree focused in Applied Mathematics from National Technical University of Athens will provide me with all the necessary skills to enter the world of data science. Bellow you can find my portfolio of data science and programming projects completed for academic, self learning, and hobby purposes. 
+* *Note: For details about projects which I have completed on a production - work related environment you can reach me on: giwrgos.nikolaidis@icloud.com
 
 # Portfolio
 
