@@ -19,7 +19,7 @@ In the context of my thesis for National Technical University of Athens, 3 clust
 
 Developed a website for a car rental company. The user could make revervations, delete a reservation or update an existing one. The car rental company could have many stores which the user would be able to choose from. The user interface was made using html,CSS and Javascript and all the data were stored in a database using MySQL.
 
-*Tools*: MySQL, PHP, Javascript, HTML, CSS
+*Tools*: MySQL, PHP, Javascript, jQuery, HTML, CSS
 
 - ### [Implementation of Four Russians Algorithm](https://github.com/GiwrgosN/FourRussiansAlgorithm)
 
