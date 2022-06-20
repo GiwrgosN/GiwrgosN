@@ -27,8 +27,4 @@ Four russians algorithm is a matrix multiplication algorithm. The main purpose o
 
 *Tools*: Python 
 
-- ### [Computational Statistics](https://github.com/GiwrgosN/Computational-Statistics)
 
-Implementation of E-M algorithm, bootstrap for linear regression, Lasso, kernel density estimation, rejection method and cross validation.
-
-*Tools*: R 
