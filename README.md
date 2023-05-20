@@ -4,11 +4,9 @@ Hello! My name is Georgios Nikolaidis and I am an experienced analytics professi
 
 *Note*: For details about projects which I have completed on a production - work related environment you can reach me on: giwrgos.nikolaidis@icloud.com
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoskountouris&show_icons=true&locale=en&layout=compact&theme=radical" alt="GiwrgosN" /></p>
-
-
-
 # Portfolio
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoskountouris&show_icons=true&locale=en&layout=compact&theme=radical" alt="GiwrgosN" /></p>
 
 ## Contents
 
