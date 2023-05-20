@@ -1,6 +1,8 @@
 # Summary
 
-Hello! My name is Georgios Nikolaidis and I am an experienced analytics professional with a demonstrated history of working in the financial services industry. Skilled in R, Python, SAS, SQL, Microsoft Office, Statistical Data Analysis and Machine Learning. Regarding my education, I am currently studing at King's College London for a MSc in Data Science (September 2022) which alongside with my integrated master's degree in Applied Mathematics from National Technical University of Athens have provided me with all the necessary skills as a data scientist. Bellow you can find my portfolio of data science and programming projects completed for academic, self learning, and hobby purposes. 
+Hello there! My name is Georgios Nikolaidis, and I am thrilled to welcome you to my GitHub profile. As an experienced analytics professional, I have a solid background in the financial services industry, where I have successfully applied my skills in R, Python, SAS, SQL, Microsoft Office, Statistical Data Analysis, and Machine Learning.
+
+Thank you for visiting my GitHub profile. I invite you to explore my portfolio of data science and programming projects. If you have any questions or potential collaboration opportunities, please feel free to reach out.
 
 *Note*: For details about projects which I have completed on a production - work related environment you can reach me on: giwrgos.nikolaidis@icloud.com
 
