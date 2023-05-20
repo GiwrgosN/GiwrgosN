@@ -6,7 +6,7 @@ Hello! My name is Georgios Nikolaidis and I am an experienced analytics professi
 
 # Portfolio
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthoskountouris&show_icons=true&locale=en&layout=compact&theme=radical" alt="GiwrgosN" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiwrgosN&show_icons=true&locale=en&layout=compact&theme=radical" alt="GiwrgosN" /></p>
 
 ## Contents
 
