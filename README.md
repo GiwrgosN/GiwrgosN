@@ -12,6 +12,8 @@ Hello! My name is Georgios Nikolaidis and I am an experienced analytics professi
 
 This notebook demonstrates the utilization of the WikiData API and the Wikipedia API to gather comprehensive information about the winners of the prestigious ACM Turing Award. The ACM Turing Award, presented annually by the Association for Computing Machinery (ACM), recognizes individuals who have made significant and enduring contributions to the field of computer science.
 
+*Tools*: Python 
+
 
 - ### [Covid-19 UK Analysis](https://github.com/GiwrgosN/Covid-19-UK-Analysis)
 
