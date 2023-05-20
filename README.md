@@ -8,6 +8,11 @@ Hello! My name is Georgios Nikolaidis and I am an experienced analytics professi
 
 ## Contents
 
+- ### [NLP Using Wikidata Knowledge Graph](https://github.com/GiwrgosN/NLP-Wikidata-Knowledge-Graph)
+
+This notebook demonstrates the utilization of the WikiData API and the Wikipedia API to gather comprehensive information about the winners of the prestigious ACM Turing Award. The ACM Turing Award, presented annually by the Association for Computing Machinery (ACM), recognizes individuals who have made significant and enduring contributions to the field of computer science.
+
+
 - ### [Covid-19 UK Analysis](https://github.com/GiwrgosN/Covid-19-UK-Analysis)
 
 The COVID-19 pandemic has presented a global challenge, necessitating swift and effective responses from governments worldwide. This comparative analysis aims to examine the vaccination strategies implemented across various regions in the United Kingdom and their impact on the escalation of COVID-19-related deaths. By evaluating the different approaches taken and their outcomes, we can gain insights into the effectiveness of these strategies and their potential implications.
